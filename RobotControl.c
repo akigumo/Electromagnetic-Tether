@@ -1,5 +1,5 @@
 // (c) 2008-2014, Jesus Calvino-Fraga
-// Modified by  D && A
+// Modified by D && A
 // ~C51~ 
 
 #include <stdio.h>
