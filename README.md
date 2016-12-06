@@ -1,5 +1,6 @@
 # Electromagnetic-Tether
-2nd year EE project on electromagnetic robot.
+
+EE project on electromagnetic robot.
 
 Another group built a remote controller to control this robot.
 
